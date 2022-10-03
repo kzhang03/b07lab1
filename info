@@ -1,1 +1,5 @@
-
+Second lab of CSCB07
+Changes the way polynomials as stored: one double array for coefficients and one integer array for exponents
+  - Redundancy and 0 coefficients aren't allowed
+Added new methods to multiply 2 polynomials
+Can now read polynomials from a txt file, as well as saving them to one
